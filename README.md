@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="100" />
 <!--
 **Bobomyint-dev/bobomyint-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
